@@ -1,0 +1,21 @@
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    padding: 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
